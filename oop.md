@@ -1011,7 +1011,7 @@ private:
     int y; // 4字节
 };
 
-// Base2 是 Derived 的间接基类
+// Base1 是 Derived 的间接基类，Base2 是 Derived 的直接基类
 class Derived: public Base2 { // 派生类/子类
 public:
     Derived(int a, b, z) : Base2(a, b), z(z) { cout << "Derived" << endl; }
