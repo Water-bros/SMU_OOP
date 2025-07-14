@@ -2306,7 +2306,7 @@ int main()
 ---
 
 ### 作者的话
-> 本文档是作者在期末考前两天里复习 OOP 课程中整理的笔记，两天耗时共计\***约8小时**完成，如有错误，欢迎批评指正。给个**Star**吧！
+> 本文档是作者在期末考前两天里复习 OOP 课程中整理的笔记，两天耗时共计**约8小时**\*完成，如有错误，欢迎批评指正。给个**Star**吧！
 
 > 本文档中的代码均经过编译器编译，并运行通过，如有问题，请自行调试。
 
@@ -2314,7 +2314,7 @@ int main()
 
 > 本文档以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议发布，转载请注明出处。
 
-【作者：Water_bros Zhou [【GitHub】](https://github.com/Water-bros)】
+【作者：Water_bros Zhou [\[GitHub\]](https://github.com/Water-bros)】
 
-\***约8小时**：如下图
+**约8小时**\*：如下图
 ![耗时](/coding_time.png)
